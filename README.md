@@ -1,4 +1,4 @@
-# UC_HT_T1DM
+# Dataset explanation
 This dataset contains information about 15 subjects where there are healthy people (subjects 1-10) and T1DM people (Subjects 11-15).
 
 The variables which are showed in this dataset are:
