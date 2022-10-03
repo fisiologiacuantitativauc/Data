@@ -21,7 +21,3 @@ Bibliography:
 
 Hovorka, R., Canonico, V., Chassin, L. J., Haueter, U., Massi-Benedetti, M., Federici, M. O., . . . others (2004). Nonlinear model predictive control of glucose concentration in subjects with type 1 diabetes. Physiological measurement, 25(4), 905. 
 
-
-
-
-
