@@ -1,5 +1,5 @@
 # Dataset explanation
-This dataset contains data from 25 subjects, 15 healthy people (HT_1-15) and 10 subjects with T1DM (T1DM 1-10).
+This dataset contains data from 25 subjects, 15 healthy people (HT 1-15) and 10 subjects with T1DM (T1DM 1-10).
 
 The variables included are:
 
