@@ -1,5 +1,5 @@
 # Dataset explanation
-This dataset contains data from 25 subjects, 15 healthy people (HT 1-15) and 10 subjects with T1DM (T1DM 1-10).
+This dataset contains data from 20 subjects, 11 healthy people (HT 1-11) and 9 subjects with T1DM (T1DM 2-10).
 
 The variables included are:
 
@@ -11,15 +11,10 @@ c) Step (-): corresponds to steps taken by the subject estimated by Fitbit Charg
 
 d) Carbohydrates (g): corresponds to the intake of carbohydrates. This value was obtained from the patient's self-report of food intake.
 
-e) IGAR (g/min): corresponds to the estimation of rate of glucose absorption in the intestine obtained using the Hovorka model (Hovorka et al., 2004).
+e) IGAR (g/min): corresponds to the estimation of rate of glucose absorption in the intestine obtained using the Hovorka model.
 
 f) Insulin: corresponds to the basal rate (U/h) and bolus (U) of exogenous insulin used by T1DM patients.
 
 If you use this dataset, please cite:
 
-Diego de la Vega, Nawel Cariman, Martín Miranda, David C. Andrade, Felipe Núñez, Maria Rodriguez-Fernandez. Personalized glucose prediction in healthy subjects and T1DM patients using deep learning methods. NPJ Digital Medicine, 2022 (Under review).
-
-Bibliography:
-
-Hovorka, R., Canonico, V., Chassin, L. J., Haueter, U., Massi-Benedetti, M., Federici, M. O., . . . others (2004). Nonlinear model predictive control of glucose concentration in subjects with type 1 diabetes. Physiological measurement, 25(4), 905. 
-
+Saúl Langarica, Diego de la Vega, Nawel Cariman, Martín Miranda, David C. Andrade, Felipe Núñez, Maria Rodriguez-Fernandez. Deep Learning-Based Glucose Prediction Models: A Guide for Practitioners and a Curated Dataset for Improved Diabetes Management. IEEE Open Journal of Engineering in Medicine and Biology, 2023 (Under review).
